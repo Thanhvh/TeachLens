@@ -1,0 +1,17 @@
+# Build outputs
+artifacts/
+bin/
+obj/
+*.pdb
+
+# Local settings and editor files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
