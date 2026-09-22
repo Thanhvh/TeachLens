@@ -46,3 +46,12 @@ On GitHub, open **Releases → Draft a new release**:
 
 Publish only after running the self-test and manually checking the three overlay modes.
 
+## Keep the beginner download link working
+
+Every GitHub release must include these two stable asset names in addition to any versioned archives:
+
+- `TeachLens-Windows-Portable.zip`
+- `TeachLens-Windows-Portable-SHA256.txt`
+
+The README uses GitHub's `releases/latest/download/...` URL. Reusing these exact asset names means teachers can always use the same download link, even after a new version becomes the latest release.
+

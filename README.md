@@ -2,7 +2,19 @@
 
 **Make every pixel teach.**
 
-[Tiếng Việt](README.vi.md) · [Project on GitHub](https://github.com/Thanhvh/TeachLens)
+[Tiếng Việt](README.vi.md) · [Roadmap](ROADMAP.md) · [All releases](https://github.com/Thanhvh/TeachLens/releases)
+
+## Download
+
+### [⬇️ Download TeachLens for Windows](https://github.com/Thanhvh/TeachLens/releases/latest/download/TeachLens-Windows-Portable.zip)
+
+> 🇻🇳 **Dành cho thầy cô:** Bấm vào liên kết phía trên để tải. Không cần tài khoản GitHub.
+
+1. Download the ZIP file.
+2. Right-click it and choose **Extract All**.
+3. Open `TeachLens.exe`.
+
+No installation or administrator access is required. You can optionally [verify the SHA-256 checksum](https://github.com/Thanhvh/TeachLens/releases/latest/download/TeachLens-Windows-Portable-SHA256.txt).
 
 TeachLens is a compact Windows utility for teaching and software demonstrations. It keeps attention on the right place without taking over the whole desktop.
 
@@ -18,13 +30,9 @@ TeachLens is a compact Windows utility for teaching and software demonstrations.
 - Runs from the system tray and remembers settings in `%LOCALAPPDATA%\TeachLens\settings.ini`.
 - Switches between English and Vietnamese from the main window. English is the default.
 
-## Run
+## Run and use
 
-1. Open `TeachLens.exe`.
-2. Choose a lens shape, zoom level and size.
-3. Optionally click **Hide to tray**. Global shortcuts keep working in other apps.
-
-No installer or administrator access is required.
+Choose a lens shape, zoom level and size, then optionally click **Hide to tray**. Global shortcuts keep working in other apps.
 
 ## Shortcuts
 

@@ -2,6 +2,13 @@
 
 All notable changes to TeachLens are recorded here.
 
+## [Unreleased]
+
+### Added
+
+- A prominent, stable direct-download link for non-technical users.
+- A public, deliberately incremental product roadmap.
+
 ## [1.0.0] — 2026-09-22 — Acorn
 
 First public-ready release.
@@ -16,4 +23,3 @@ First public-ready release.
 - Dynamic `Esc` handling and system-tray controls.
 - Multi-monitor boundary and per-monitor DPI handling.
 - Privacy, security, contribution and publishing documentation.
-

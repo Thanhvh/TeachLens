@@ -2,7 +2,19 @@
 
 **Biến từng điểm ảnh thành bài giảng.**
 
-[English](README.md) · [Dự án trên GitHub](https://github.com/Thanhvh/TeachLens)
+[English](README.md) · [Lộ trình](ROADMAP.md) · [Tất cả phiên bản](https://github.com/Thanhvh/TeachLens/releases)
+
+## Tải xuống
+
+### [⬇️ BẤM VÀO ĐÂY ĐỂ TẢI TEACHLENS CHO WINDOWS](https://github.com/Thanhvh/TeachLens/releases/latest/download/TeachLens-Windows-Portable.zip)
+
+**Không cần tài khoản GitHub và không cần cài đặt.**
+
+1. Tải tệp ZIP bằng liên kết phía trên.
+2. Nhấp phải tệp vừa tải và chọn **Extract All / Giải nén tất cả**.
+3. Mở `TeachLens.exe`.
+
+Người dùng có thể [kiểm tra mã SHA-256 tại đây](https://github.com/Thanhvh/TeachLens/releases/latest/download/TeachLens-Windows-Portable-SHA256.txt).
 
 TeachLens là tiện ích Windows x64 nhỏ gọn dành cho dạy học và trình diễn phần mềm. Ứng dụng giúp người xem tập trung đúng chỗ mà không chiếm toàn bộ màn hình.
 
@@ -18,13 +30,9 @@ TeachLens là tiện ích Windows x64 nhỏ gọn dành cho dạy học và trì
 - Chạy ở khay hệ thống và lưu thiết lập tại `%LOCALAPPDATA%\TeachLens\settings.ini`.
 - Chuyển đổi English/Tiếng Việt ngay trên cửa sổ chính. Ngôn ngữ mặc định là English.
 
-## Cách chạy
+## Cách sử dụng
 
-1. Mở `TeachLens.exe`.
-2. Chọn hình dạng kính, mức phóng và kích thước.
-3. Có thể bấm **Ẩn xuống khay**; phím tắt vẫn hoạt động trong các phần mềm khác.
-
-Không cần cài đặt và không cần quyền quản trị viên.
+Chọn hình dạng kính, mức phóng và kích thước. Có thể bấm **Ẩn xuống khay**; phím tắt vẫn hoạt động trong các phần mềm khác.
 
 ## Phím tắt
 
